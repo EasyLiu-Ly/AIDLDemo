@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AIDLDemo</string>
+    <string name="remote_service_stopped">remote service stopped</string>
+    <string name="bind_service">bind service</string>
+    <string name="unbind_service">unbind service</string>
+    <string name="kill_process">kill process</string>
+    <string name="remote_service_connected">remote service connected</string>
+    <string name="remote_service_disconnected">remote service disconnected</string>
+    <string name="remote_call_failed">remote call failed</string>
+</resources>
